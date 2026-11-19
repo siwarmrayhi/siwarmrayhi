@@ -23,7 +23,7 @@
 <br/>
 
 <img src="./assets/sec_stack.svg" width="100%" alt="03 My toolbox" />
-<img src="./assets/stack.svg" width="100%" alt="Scrum, Jira, BPMN, Camunda, n8n, Figma, Java, Spring, Python, FastAPI, Angular, Pandas, NumPy, scikit-learn, PyTorch, TensorFlow, OpenCV, Power BI, PostgreSQL, MySQL, MongoDB, Firebase, Supabase, Docker, Git, GitHub" />
+<img src="./assets/stack.svg" width="100%" alt="Scrum, Jira, BPMN, Camunda, n8n, Figma, Java, Spring Boot, Python, FastAPI, Angular, Pandas, NumPy, scikit-learn, PyTorch, TensorFlow, OpenCV, LangChain, LangGraph, RAG, OCR, Power BI, PostgreSQL, MySQL, MongoDB, Firebase, Supabase, Docker, Git, GitHub" />
 
 <br/>
 
